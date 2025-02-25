@@ -107,5 +107,3 @@ NextFile:
     ' Cleanup
     MsgBox "Processing complete!", vbInformation
 End Sub
-
-
